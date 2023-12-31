@@ -1,4 +1,4 @@
-This little Web App approach is constructed via Flask, Python, JavaScript
+This little Web App approach is constructed via Flask, Python, JavaScript, Css and Html
 
 The overall structure:
 
